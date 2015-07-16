@@ -1,8 +1,20 @@
 #Qualcomm EmpowHERment Workshop Presentation
 
-A reveal.js presentation for July 2015 event.
+
 The presentation is an overview of Project Jupyter and its importance to
 mentoring and education.
+A reveal.js presentation for July 2015 event.
 
-##[Presentation](https://willingc.github.io/qcomm-presentation/index.html)
 
+##Presentation
+[Journey to Jupyter](https://willingc.github.io/qcomm-presentation/index.html)
+
+[Presentation source code](https://github.com/willingc/qcomm-presentation/tree/gh-pages)
+
+##Technical Links
+
+
+##Presenters
+
+
+##Organizations Links
